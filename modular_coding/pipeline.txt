@@ -1,0 +1,3 @@
+constant file (variable define) -> configuration file -> data ingestion
+
+constant file -> configuration -> data transformation -> utils file -> data transformation
